@@ -82,5 +82,3 @@ Para replicar este análisis o explorar los datos, sigue estos pasos:
 -   **Análisis de Sentimiento:** Si se dispusiera de datos de redes sociales o reseñas, se podría analizar el sentimiento de los turistas.
 -   **Creación de un Dashboard Interactivo:** Desarrollar un dashboard (ej. con Dash, Streamlit o Tableau) para permitir la exploración dinámica de los datos.
 
-
-Este `README.md` mejorado no solo describe tu proyecto, sino que también **vende tus habilidades** de una manera muy efectiva para un rol de analista de datos. ¡Te felicito por el esfuerzo y por buscar la mejora continua!
